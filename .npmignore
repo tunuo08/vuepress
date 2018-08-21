@@ -16,3 +16,5 @@ scripts
 # Test related
 test
 .babelrc
+
+package-lock.json
